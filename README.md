@@ -1,10 +1,10 @@
-Selenium Test Automation for Sahibinden.com using TestNG
+Selenium Test Automation for GittiGidiyor.com using TestNG
 
-This repository contains a set of automated test scripts developed using Selenium WebDriver and TestNG to validate key functionalities of the Sahibinden.com website. The project is designed to showcase best practices in test automation, including test case design, parameterization, and reporting.
+This repository contains a set of automated test scripts developed using Selenium WebDriver and TestNG to validate key functionalities of the GittiGidiyor.com website. The project is designed to showcase best practices in test automation, including test case design, parameterization, and reporting.
 
 Key Features:
 
-Comprehensive coverage of critical user journeys on Sahibinden.com.
+Comprehensive coverage of critical user journeys on GittiGidiyor.com.
 Utilizes TestNG's powerful annotations for test management and execution.
 Customizable test configurations for different environments and browsers.
 Detailed logging and reporting features for clear test outcomes.
